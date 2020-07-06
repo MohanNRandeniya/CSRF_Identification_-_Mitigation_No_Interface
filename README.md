@@ -4,9 +4,9 @@ This tool can be used to identify csrf vulnerabilities and apply security soluti
 
 How to run ?
 1. Type in command line,
-    python csrf-scanner.py -i [ip_address/url]
+    #python csrf-scanner.py -i [ip_address/url]
 
 2. After generating a CSV file, run the foolowing command.
-    python generate.py
+    #python generate.py
 
 For more information contact me. randeniyamohan@gmail.com
